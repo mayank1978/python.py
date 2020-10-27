@@ -1,4 +1,4 @@
-birth_year=int(input("enter birth year : "))
-present_year=int(input("enter present year : "))
-age=(present_year-birth_year)
-print("age",age)
+present_year=int(input("Enter present year : "))
+Birth_year=int(input("Enter birth year : "))
+Age=(present_year-Birth_year)
+print("Age",Age)
